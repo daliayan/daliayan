@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on sharpening my Java skills, improving my daily running stamina, and learning how to cook more meals.
 - 🌱 I’m learning Java, AWS, React, Spring, MongoDB, Agile and more at the moment.
-- ⚙️Experienced in creating applications using Ruby on Rails, Ruby, Javascript, React, Redux, SQL, Sinatra, and HTMl/CSS for styling. 
+- ⚙️ Experienced in creating applications using Ruby on Rails, Ruby, Javascript, React, Redux, SQL, Sinatra, and HTML/CSS for styling. 
 
 - ✏️ I have a degree in journalism, read my wordz here: https://daliayan.medium.com/
 - 📫 How to reach me: https://www.linkedin.com/in/dalia-yan-b6322a13a/ -- message me on LinkedIn!
  
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm trying to travel to 30 countries before I turn 30 ⚡
