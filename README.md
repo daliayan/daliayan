@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on sharpening my Java skills, and improving my daily running stamina
 - 🌱 I’m currently learning Java, AWS, React, Spring, MongoDB, Agile and more
+- 
+- ✏️ I have a degree in journalism, read my wordz here: https://daliayan.medium.com/
 - 📫 How to reach me: https://www.linkedin.com/in/dalia-yan-b6322a13a/ -- message me on LinkedIn!
+- 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm trying to travel to 30 countries before I turn 30 ⚡
